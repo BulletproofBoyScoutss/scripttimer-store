@@ -1,0 +1,5 @@
+# ScriptTimer
+
+ScriptTimer는 유튜브 스타일 대본의 길이·호흡·타임코드를 빠르게 점검해 주는 초경량 도구입니다. 글자 수·말하기 속도 기반 길이 추정, 장면별 분할, 후킹 문장 체크, 영상 길이 예측을 한 화면에서 확인하고 즉시 수정안을 받을 수 있어 초보 편집자도 바로 활용 가능합니다. 브라우저만 있으면 설치 없이 동작하며, 템플릿을 복사해 자신의 채널 톤으로 커스터마이즈할 수 있습니다. 오픈 베타 기간에는 핵심 기능을 무료 제공하고, 쇼츠/릴스 프리셋, 00:00 타임코드 자동 삽입, 썸네일 카피 추천 등 생산성 기능을 순차 업데이트합니다. 시작 가이드·예시·FAQ는 여기에서 확인하세요 👉 https://scripttimer.store?utm_source=github&utm_medium=referral&utm_campaign=backlink_launch
+
+👉 [scripttimer 공식 사이트](https://scripttimer.store?utm_source=github&utm_medium=referral&utm_campaign=backlink_launch)
